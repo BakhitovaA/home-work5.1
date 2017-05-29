@@ -2,7 +2,7 @@
   "name": "work1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "hw1-new.js",
   "scripts": {
     "test": "mocha"
   },
