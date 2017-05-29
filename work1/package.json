@@ -1,0 +1,19 @@
+{
+  "name": "work1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2",
+    "mocha-sinon": "^2.0.0",
+    "sinon": "^2.3.2",
+    "supertest": "^3.0.0"
+  }
+}
